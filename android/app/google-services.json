@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "137464289879",
+    "project_id": "mikilonotes",
+    "storage_bucket": "mikilonotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137464289879:android:6fec2b38880d15bcdc6112",
+        "android_client_info": {
+          "package_name": "com.example.mikilonotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137464289879-84kqbpfr3vvafv440a3ks3slnc4ttvao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybxqUUXh0BSEbB4ysEbWq07xCu4qd-Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137464289879-84kqbpfr3vvafv440a3ks3slnc4ttvao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137464289879-b8i1i97kkql8v6hpfar8tia4n2cvmo5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mikoloNotes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137464289879:android:bfde74d37db88255dc6112",
+        "android_client_info": {
+          "package_name": "com.example.mikolo_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137464289879-84kqbpfr3vvafv440a3ks3slnc4ttvao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybxqUUXh0BSEbB4ysEbWq07xCu4qd-Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137464289879-84kqbpfr3vvafv440a3ks3slnc4ttvao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137464289879-b8i1i97kkql8v6hpfar8tia4n2cvmo5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mikoloNotes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
